@@ -1,13 +1,13 @@
 # 🐶 Puppy Project
 
-A cute and interactive web project that showcases a puppy-themed interface using HTML, CSS, and JavaScript. Designed with engaging visuals, smooth animations, and a playful UI to deliver a fun and enjoyable user experience.
+A cute and interactive web project that showcases a puppy-themed interface using HTML and CSS. Designed with engaging visuals, smooth animations, and a playful UI to deliver a fun and enjoyable user experience.
 
 ---
 
 ## 🚀 Features
 
 - 🐶 Puppy-themed design  
-- 🎨 Smooth animations and transitions  
+- 🎨 Smooth CSS animations and transitions  
 - 💖 Interactive UI elements  
 - 📱 Responsive design  
 - ⚡ Lightweight and fast  
@@ -18,7 +18,6 @@ A cute and interactive web project that showcases a puppy-themed interface using
 
 - HTML  
 - CSS  
-- JavaScript  
 
 ---
 
@@ -27,7 +26,6 @@ A cute and interactive web project that showcases a puppy-themed interface using
     puppy/
     │── index.html
     │── style.css
-    │── script.js
     │── README.md
     │── LICENSE
 
@@ -57,25 +55,25 @@ xdg-open index.html
 ## 🎮 How It Works
 
 1. Open the application  
-2. Explore the puppy-themed interface  
-3. Interact with UI elements  
-4. Enjoy animations and visuals  
+2. View the puppy-themed interface  
+3. Experience animations and visuals  
+4. Enjoy the design  
 
 ---
 
 ## 🖼️ Output
 
 - Cute puppy-themed UI  
-- Smooth animations  
-- Interactive elements  
+- Smooth CSS animations  
+- Clean and responsive layout  
 
 ---
 
 ## 📌 Key Functionalities
 
-- Animated UI interactions  
-- Responsive layout  
-- Clean and simple design  
+- CSS-based animations  
+- Responsive UI design  
+- Clean and simple layout  
 - Lightweight performance  
 
 ---
@@ -83,9 +81,9 @@ xdg-open index.html
 ## 📌 Future Improvements
 
 - 🎵 Add sound effects  
-- 🎮 More interactive features  
-- 🎨 Enhanced animations  
+- 🎨 More animation styles  
 - 🌙 Dark mode support  
+- 📱 Enhanced mobile UI  
 
 ---
 
